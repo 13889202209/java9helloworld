@@ -8,7 +8,7 @@ public class HelloWorld {
     private static final Logger logger = Logger.getLogger("helloworld");
 
     public static void main(String[] args) {
-        System.out.println("helloworld777");
+        System.out.println("helloworld888");
         Person p = new Person();
         System.out.println(p.toString());
     }
